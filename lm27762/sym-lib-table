@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "lm27762")(type "KiCad")(uri "${KIPRJMOD}/../KicadLibrary/symbol/PWR/REG/CHARGEPUMP/lm27762.kicad_sym")(options "")(descr ""))
+)
