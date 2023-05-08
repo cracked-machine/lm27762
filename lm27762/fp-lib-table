@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TinyTestPoints")(type "KiCad")(uri "${KIPRJMOD}/../KicadLibrary/footprint/MISC/TinyTetspoints/TinyTestPoints.pretty")(options "")(descr ""))
+)

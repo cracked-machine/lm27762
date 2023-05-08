@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/chris/projects/pcb/adaptors/lm27762/lm27762/lm27762.kicad_sch</source>
+    <date>Mon 08 May 2023 22:46:26 BST</date>
+    <tool>Eeschema 7.0.1-3b83917a11~172~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lm27762.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>${KIPRJMOD}/../datasheets/mlcc/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C85713</field>
+        <field name="MPN">CL10A106MP8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL10A106MP8NNNC"/>
+      <property name="LCSC" value="C85713"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48c03e79-fe06-4709-871c-894b4f5618f5</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>${KIPRJMOD}/../datasheets/mlcc/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C52923</field>
+        <field name="MPN">CL05A105KA5NQNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A105KA5NQNC"/>
+      <property name="LCSC" value="C52923"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d80f0c5a-7a4a-4add-9bdd-171794be9953</tstamps>
+    </comp>
+    <comp ref="CF1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <datasheet>${KIPRJMOD}/../datasheets/mlcc/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C14445</field>
+        <field name="MPN">CL05A105KP5NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL05A105KP5NNNC"/>
+      <property name="LCSC" value="C14445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c223b42-6c04-4275-9345-688f458198f8</tstamps>
+    </comp>
+    <comp ref="CO1">
+      <value>2.2u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>${KIPRJMOD}/../datasheets/mlcc/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C1607</field>
+        <field name="MPN">CL10A225KP8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL10A225KP8NNNC"/>
+      <property name="LCSC" value="C1607"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9589ec9-b1da-490b-bbf4-a343873799c9</tstamps>
+    </comp>
+    <comp ref="CO2">
+      <value>2.2u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>${KIPRJMOD}/../datasheets/mlcc/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C1607</field>
+        <field name="MPN">CL10A225KP8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL10A225KP8NNNC"/>
+      <property name="LCSC" value="C1607"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>086d885e-0f57-4c2e-b8f3-dfbace084662</tstamps>
+    </comp>
+    <comp ref="CP1">
+      <value>4.7u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <datasheet>${KIPRJMOD}/../datasheets/mlcc/MLCC-1837944.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C1705</field>
+        <field name="MPN">CL10A475KP8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="MPN" value="CL10A475KP8NNNC"/>
+      <property name="LCSC" value="C1705"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7d75911-7ba8-4be7-a356-898ae7cbba97</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a62e0313-b797-49d5-821d-a84e2fcb0256</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>680k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>${KIPRJMOD}/../datasheets/resistors/PYu_RC_Group_51_RoHS_L_11-1984063.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C137690</field>
+        <field name="MPN">RC0603FR-07680KL </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0603FR-07680KL "/>
+      <property name="LCSC" value="C137690"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5526351e-2262-4801-b1c4-1f06c133e961</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>220k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>${KIPRJMOD}/../datasheets/resistors/PYu_RC_Group_51_RoHS_L_11-1984063.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C123420</field>
+        <field name="MPN">RC0603FR-07220KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0603FR-07220KL"/>
+      <property name="LCSC" value="C123420"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>229ea168-d75f-45a1-9ac9-52cfd0a80ded</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>680k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>${KIPRJMOD}/../datasheets/resistors/PYu_RC_Group_51_RoHS_L_11-1984063.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C137690</field>
+        <field name="MPN">RC0603FR-07680KL </field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0603FR-07680KL "/>
+      <property name="LCSC" value="C137690"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28b97ea2-5438-44c3-9c20-1f9d17cdf660</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>220k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <datasheet>${KIPRJMOD}/../datasheets/resistors/PYu_RC_Group_51_RoHS_L_11-1984063.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C123420</field>
+        <field name="MPN">RC0603FR-07220KL</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="RC0603FR-07220KL"/>
+      <property name="LCSC" value="C123420"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d66461f5-a06f-4f79-9e32-ac39eff3e104</tstamps>
+    </comp>
+    <comp ref="RP1">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <datasheet>${KIPRJMOD}/../datasheets/resistors/1811081823_PANASONIC-ERJ2RKF1002X_C191123.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C191123</field>
+        <field name="MPN">ERJ2RKF1002X</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="MPN" value="ERJ2RKF1002X"/>
+      <property name="LCSC" value="C191123"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8e00fc1-1f55-4618-8b15-6fd4887f083b</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>TinyTestPoints:0_5mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>071d4afc-6472-4cd8-9202-540d685b1a1d</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>TinyTestPoints:0_5mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a048cca-2cbc-42cc-b6b6-cfc8a409f0e5</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>TinyTestPoints:0_5mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cceb7953-8c4a-4dc4-8579-b815d91081ae</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint</value>
+      <footprint>TinyTestPoints:0_5mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2254156-98c9-49cd-8667-10681a199eaa</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint</value>
+      <footprint>TinyTestPoints:0_5mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <property name="ki_description" value="test point"/>
+      <property name="ki_keywords" value="test point tp"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>197264a4-b0a9-44df-a566-d38e8e523fe1</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM27762DSSR</value>
+      <footprint>Package_SON:WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/lm27762.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C473398</field>
+        <field name="MPN">LM27762DSSR</field>
+      </fields>
+      <libsource lib="lm27762" part="lm27762" description=""/>
+      <property name="MPN" value="LM27762DSSR"/>
+      <property name="LCSC" value="C473398"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lm27762.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be089e8b-c3c5-4900-bd3d-6636eea7b6bb</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="lm27762" part="lm27762">
+      <docs>https://www.ti.com/lit/ds/symlink/lm27762.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Footprint">Package_SON:WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias</field>
+        <field name="Datasheet">https://www.ti.com/lit/ds/symlink/lm27762.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PGOOD" type="passive"/>
+        <pin num="2" name="FB+" type="passive"/>
+        <pin num="3" name="VIN" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="CP" type="passive"/>
+        <pin num="6" name="OUT-" type="passive"/>
+        <pin num="7" name="FB-" type="passive"/>
+        <pin num="8" name="EN-" type="passive"/>
+        <pin num="9" name="C1-" type="passive"/>
+        <pin num="10" name="C1+" type="passive"/>
+        <pin num="11" name="OUT+" type="passive"/>
+        <pin num="12" name="EN+" type="passive"/>
+        <pin num="13" name="TP" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="lm27762">
+      <uri>/home/chris/projects/pcb/adaptors/lm27762/lm27762/../KicadLibrary/symbol/PWR/REG/CHARGEPUMP/lm27762.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/VIN">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="RP1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="EN+" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VIN" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="EN-" pintype="passive"/>
+    </net>
+    <net code="2" name="/VOUT+">
+      <node ref="CO1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="OUT+" pintype="passive"/>
+    </net>
+    <net code="3" name="/VOUT-">
+      <node ref="CO2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="OUT-" pintype="passive"/>
+    </net>
+    <net code="4" name="/fb+">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="FB+" pintype="passive"/>
+    </net>
+    <net code="5" name="/fb-">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="FB-" pintype="passive"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="CO1" pin="1" pintype="passive"/>
+      <node ref="CO2" pin="2" pintype="passive"/>
+      <node ref="CP1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="TP" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(U1-C1+)">
+      <node ref="CF1" pin="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="C1+" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(U1-C1-)">
+      <node ref="CF1" pin="2" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="C1-" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(U1-CP)">
+      <node ref="CP1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="CP" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(U1-PGOOD)">
+      <node ref="RP1" pin="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="PGOOD" pintype="passive"/>
+    </net>
+  </nets>
+</export>
