@@ -1,0 +1,19 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C1","10u","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",115.062000,-67.310000,-90.000000,top
+"C2","1u","C_0402_1005Metric_Pad0.74x0.62mm_HandSolder",116.459000,-67.242500,90.000000,top
+"CF1","1u","C_0402_1005Metric_Pad0.74x0.62mm_HandSolder",116.653500,-61.087000,0.000000,top
+"CO1","2.2u","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",113.691500,-61.087000,0.000000,top
+"CO2","2.2u","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",119.507000,-67.209500,-90.000000,top
+"CP1","4.7u","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",117.856000,-67.283500,90.000000,top
+"J1","Conn_01x04","PinHeader_1x04_P2.54mm_Vertical",126.619000,-67.310000,180.000000,top
+"R1","680k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",113.665000,-59.436000,0.000000,top
+"R2","220k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",111.835250,-67.183000,90.000000,top
+"R3","680k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",119.507000,-63.754000,90.000000,top
+"R4","220k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",120.396000,-61.214000,0.000000,top
+"RP1","10K","R_0402_1005Metric_Pad0.72x0.64mm_HandSolder",113.157000,-64.389000,180.000000,top
+"TP2","TestPoint","0_5mm",117.348000,-59.944000,0.000000,top
+"TP3","TestPoint","0_5mm",116.078000,-59.944000,0.000000,top
+"TP4","TestPoint","0_5mm",110.642400,-65.125600,0.000000,top
+"TP6","TestPoint","0_5mm",110.388400,-67.106800,0.000000,top
+"TP7","TestPoint","0_5mm",119.507000,-59.817000,0.000000,top
+"U1","LM27762DSSR","WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias",116.209000,-63.566000,90.000000,top

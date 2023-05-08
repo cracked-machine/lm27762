@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+"10u","C1","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","C85713"
+"1u","CF1,C2","Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder","C52923"
+"2.2u","CO1,CO2","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","C1607"
+"4.7u","CP1","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","C1705"
+"Conn_01x04","J1","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
+"680k","R1,R3","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","C137690"
+"220k","R2,R4","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","C123420"
+"10K","RP1","Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder","C191123"
+"TestPoint","TP2,TP3,TP4,TP6,TP7","TinyTestPoints:0_5mm",""
+"LM27762DSSR","U1","Package_SON:WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias","C473398"
