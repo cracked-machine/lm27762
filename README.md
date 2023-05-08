@@ -1,0 +1,1 @@
+Replaced RP1 with [C2759535](https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-HP02WAF1002TCE_C2759535.html)
